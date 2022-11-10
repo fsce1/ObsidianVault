@@ -4,22 +4,72 @@
     "type": "split",
     "children": [
       {
-        "id": "4ddf26661afc011d",
-        "type": "tabs",
+        "id": "fd896a3eb92f132f",
+        "type": "split",
         "children": [
           {
-            "id": "7acdf96ad3534d13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Games to Play.md",
-                "mode": "source",
-                "source": false
+            "id": "320ba38e1919d33e",
+            "type": "split",
+            "dimension": 35.86538461538461,
+            "children": [
+              {
+                "id": "aaa4a29146b48db3",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "9eb3b44a1283e1af",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "MVP- GravityPlatformer/Gameplay.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "fd25658e2becad2b",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "460a5e606836a08c",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "MVP- GravityPlatformer/World.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
               }
-            }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "f9ae1be818f13df3",
+            "type": "tabs",
+            "dimension": 64.13461538461539,
+            "children": [
+              {
+                "id": "782afa1e3d394669",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "MVP- GravityPlatformer/LVL-1 Sketch.md"
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -103,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Games to Play.md",
+                "file": "MVP- GravityPlatformer/LVL-1 Sketch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Games to Play.md",
+                "file": "MVP- GravityPlatformer/LVL-1 Sketch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Games to Play.md"
+                "file": "MVP- GravityPlatformer/LVL-1 Sketch.md"
               }
             }
           }
@@ -154,17 +204,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7acdf96ad3534d13",
+  "active": "7b1dee41c95b5f77",
   "lastOpenFiles": [
+    "MVP- GravityPlatformer/Gameplay.md",
+    "MVP- GravityPlatformer/World.md",
+    "MVP- GravityPlatformer/LVL-1 Sketch.md",
+    "MVP- GravityPlatformer/LVL-1 Beatmap.md",
     "MVP- StrategyGame/Gameplay.md",
-    "Games to Play.md",
-    "Untitled.md",
-    "MVP- StrategyGame/Code Notes.md",
     "MVP- StrategyGame/World.md",
-    "MVP- StrategyGame/HealthSystem.md",
-    "Moodboard- Iso Room/Pasted Image 20221108095138_769.png",
-    "Moodboard- Iso Room/Drawing 2022-11-08 09.29.20.excalidraw.md",
-    "Moodboard- Iso Room/Pasted Image 20221108093004_985.png",
-    "Moodboard- Iso Room/Pasted Image 20221108093302_360.jpg"
+    "MVP- StrategyGame/Code Notes.md",
+    "MVP- GravityPlatformer/Untitled.md",
+    "Games to Play.md",
+    "MVP- StrategyGame/HealthSystem.md"
   ]
 }
