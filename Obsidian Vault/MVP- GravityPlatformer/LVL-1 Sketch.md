@@ -3268,55 +3268,6 @@ Slide ^ThG37Yrt
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Slide"
-		},
-		{
-			"type": "line",
-			"version": 649,
-			"versionNonce": 1388245216,
-			"isDeleted": true,
-			"id": "YGl5vpU_2avsp06QQvRae",
-			"fillStyle": "cross-hatch",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 4.470688963852085,
-			"x": 149.12991062840126,
-			"y": -513.082743459475,
-			"strokeColor": "#000000",
-			"backgroundColor": "#fa5252",
-			"width": 54.785550077078824,
-			"height": 106.6452361628771,
-			"seed": 1221893408,
-			"groupIds": [],
-			"strokeSharpness": "sharp",
-			"boundElements": [],
-			"updated": 1668097032189,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					38.28560111836567,
-					-42.586610793755135
-				],
-				[
-					-16.49994895871315,
-					64.05862536912196
-				],
-				[
-					0,
-					0
-				]
-			]
 		}
 	],
 	"appState": {
