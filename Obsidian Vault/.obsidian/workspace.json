@@ -60,9 +60,23 @@
                 "id": "782afa1e3d394669",
                 "type": "leaf",
                 "state": {
-                  "type": "excalidraw",
+                  "type": "markdown",
                   "state": {
-                    "file": "MVP- GravityPlatformer/LVL-1 Sketch.md"
+                    "file": "Daily/2022-11-10.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "1eb0247c9f30b5ca",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Games to Play.md",
+                    "mode": "source",
+                    "source": false
                   }
                 }
               }
@@ -153,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MVP- GravityPlatformer/LVL-1 Sketch.md",
+                "file": "Daily/2022-11-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MVP- GravityPlatformer/LVL-1 Sketch.md",
+                "file": "Daily/2022-11-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MVP- GravityPlatformer/LVL-1 Sketch.md"
+                "file": "Daily/2022-11-10.md"
               }
             }
           }
@@ -204,17 +218,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7b1dee41c95b5f77",
+  "active": "782afa1e3d394669",
   "lastOpenFiles": [
     "MVP- GravityPlatformer/Gameplay.md",
-    "MVP- GravityPlatformer/World.md",
-    "MVP- GravityPlatformer/LVL-1 Sketch.md",
-    "MVP- GravityPlatformer/LVL-1 Beatmap.md",
-    "MVP- StrategyGame/Gameplay.md",
-    "MVP- StrategyGame/World.md",
+    "MVP- StrategyGame/HealthSystem.md",
     "MVP- StrategyGame/Code Notes.md",
-    "MVP- GravityPlatformer/Untitled.md",
+    "MVP- GravityPlatformer/LVL-1 Beatmap.md",
+    "MVP- GravityPlatformer/LVL-1 Sketch.md",
     "Games to Play.md",
-    "MVP- StrategyGame/HealthSystem.md"
+    "Daily/2022-11-10.md",
+    "2022-11-10.md",
+    "Pasted image 20221110192819.png",
+    "Sekiro/Untitled.md"
   ]
 }
