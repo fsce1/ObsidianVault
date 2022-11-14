@@ -11,11 +11,9 @@
             "id": "102c06c5058f334b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Sekiro.md",
-                "mode": "source",
-                "source": false
+                "file": "Models.md"
               }
             }
           }
@@ -103,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sekiro.md",
+                "file": "Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sekiro.md",
+                "file": "Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sekiro.md"
+                "file": "Models.md"
               }
             }
           }
@@ -156,6 +154,7 @@
   },
   "active": "102c06c5058f334b",
   "lastOpenFiles": [
+    "Sekiro.md",
     "MVP- StrategyGame/Code Notes.md",
     "MVP- StrategyGame/Kanban.md",
     "MVP- StrategyGame/World.md",
@@ -163,7 +162,6 @@
     "MVP- StrategyGame/Gameplay.md",
     "Models.md",
     "Games.md",
-    "Sekiro.md",
     "MVP- GravityPlatformer/Kanban.md",
     "MVP- GravityPlatformer/LVL-1 Sketch.md"
   ]

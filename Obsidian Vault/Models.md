@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## Plan
 
-- [ ] Meat's SCAR Handrail
 - [ ] Andrew's ARAK
 - [ ] 42's Commissions
 - [ ] StrategyGame City Assets
@@ -15,10 +14,12 @@ kanban-plugin: basic
 
 ## Hi-Poly
 
+- [ ] Meat's AR Charging Handle
 
 
 ## Lo-Poly
 
+- [ ] Meat's SCAR Handrail
 
 
 ## UV/Texturing
