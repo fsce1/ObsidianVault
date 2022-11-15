@@ -4,20 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "34bf566090fe65b0",
-        "type": "tabs",
+        "id": "622c7ae48acb1463",
+        "type": "split",
         "children": [
           {
-            "id": "274036ecf4a6bdfd",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "MVP- StrategyGame/Kanban.md"
+            "id": "34bf566090fe65b0",
+            "type": "tabs",
+            "dimension": 30.689655172413794,
+            "children": [
+              {
+                "id": "274036ecf4a6bdfd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Daily/2022-11-15.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "19f47bd8dc47ffb4",
+            "type": "tabs",
+            "dimension": 69.3103448275862,
+            "children": [
+              {
+                "id": "8a31c866beff1d90",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -103,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MVP- StrategyGame/Kanban.md",
+                "file": "Daily/2022-11-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MVP- StrategyGame/Kanban.md",
+                "file": "Daily/2022-11-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MVP- StrategyGame/Kanban.md"
+                "file": "Daily/2022-11-15.md"
               }
             }
           }
@@ -156,15 +181,15 @@
   },
   "active": "274036ecf4a6bdfd",
   "lastOpenFiles": [
+    "MVP- StrategyGame/Kanban.md",
+    "Pawn Behaviour.md",
     "DesignDocs/Room Feedback.md",
     "DesignDocs/Moodboard- Iso Room/Pasted Image 20221108095127_042.png",
     "Models.md",
     "Sekiro.md",
     "MVP- StrategyGame/Code Notes.md",
-    "MVP- StrategyGame/Kanban.md",
     "MVP- StrategyGame/World.md",
     "MVP- StrategyGame/HealthSystem.md",
-    "MVP- StrategyGame/Gameplay.md",
-    "Games.md"
+    "MVP- StrategyGame/Gameplay.md"
   ]
 }

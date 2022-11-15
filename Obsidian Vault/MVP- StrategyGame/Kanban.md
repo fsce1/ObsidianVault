@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## Plan
 
-- [ ] Pawn Behaviour
+- [ ] [[Pawn Behaviour]]
 - [ ] Enemy Behaviour
 
 
