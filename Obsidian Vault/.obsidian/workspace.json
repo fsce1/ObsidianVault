@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ecdaaa50e67e07a2",
+        "id": "34bf566090fe65b0",
         "type": "tabs",
         "children": [
           {
-            "id": "102c06c5058f334b",
+            "id": "274036ecf4a6bdfd",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Models.md"
+                "file": "MVP- StrategyGame/Kanban.md"
               }
             }
           }
@@ -29,6 +29,7 @@
       {
         "id": "57036aa8825d898a",
         "type": "tabs",
+        "dimension": 63.74999999999999,
         "children": [
           {
             "id": "7b1dee41c95b5f77",
@@ -68,6 +69,7 @@
       {
         "id": "b8f139255b5b39a1",
         "type": "tabs",
+        "dimension": 36.25,
         "children": [
           {
             "id": "1939f0692b540af7",
@@ -101,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Models.md",
+                "file": "MVP- StrategyGame/Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Models.md",
+                "file": "MVP- StrategyGame/Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Models.md"
+                "file": "MVP- StrategyGame/Kanban.md"
               }
             }
           }
@@ -152,17 +154,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "102c06c5058f334b",
+  "active": "274036ecf4a6bdfd",
   "lastOpenFiles": [
+    "DesignDocs/Room Feedback.md",
+    "DesignDocs/Moodboard- Iso Room/Pasted Image 20221108095127_042.png",
+    "Models.md",
     "Sekiro.md",
     "MVP- StrategyGame/Code Notes.md",
     "MVP- StrategyGame/Kanban.md",
     "MVP- StrategyGame/World.md",
     "MVP- StrategyGame/HealthSystem.md",
     "MVP- StrategyGame/Gameplay.md",
-    "Models.md",
-    "Games.md",
-    "MVP- GravityPlatformer/Kanban.md",
-    "MVP- GravityPlatformer/LVL-1 Sketch.md"
+    "Games.md"
   ]
 }

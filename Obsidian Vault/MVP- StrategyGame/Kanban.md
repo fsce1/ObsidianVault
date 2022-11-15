@@ -13,12 +13,12 @@ kanban-plugin: basic
 ## Work In Progress
 
 - [ ] LVL-1 Sketch (Needs to be digitised + finished)
-- [ ] JSON Serialization-<br>need to de-serialize and actually save as .json
 
 
 ## First Pass Finished
 
 - [ ] Camera Controls
+- [ ] JSON Serialization-<br>need to de-serialize and actually save as .json
 
 
 ## Refactoring
