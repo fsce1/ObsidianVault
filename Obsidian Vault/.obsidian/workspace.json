@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Daily/2022-11-15.md",
+                    "file": "Daily/2022-11-16.md",
                     "mode": "source",
                     "source": false
                   }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2022-11-15.md",
+                "file": "Daily/2022-11-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2022-11-15.md",
+                "file": "Daily/2022-11-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2022-11-15.md"
+                "file": "Daily/2022-11-16.md"
               }
             }
           }
@@ -181,6 +181,7 @@
   },
   "active": "274036ecf4a6bdfd",
   "lastOpenFiles": [
+    "Daily/2022-11-15.md",
     "MVP- StrategyGame/Kanban.md",
     "Pawn Behaviour.md",
     "DesignDocs/Room Feedback.md",
@@ -189,7 +190,6 @@
     "Sekiro.md",
     "MVP- StrategyGame/Code Notes.md",
     "MVP- StrategyGame/World.md",
-    "MVP- StrategyGame/HealthSystem.md",
-    "MVP- StrategyGame/Gameplay.md"
+    "MVP- StrategyGame/HealthSystem.md"
   ]
 }
