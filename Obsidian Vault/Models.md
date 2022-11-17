@@ -7,9 +7,13 @@ kanban-plugin: basic
 ## Plan
 
 - [ ] Andrew's ARAK
-- [ ] 42's Commissions
 - [ ] StrategyGame City Assets
 - [ ] StrategyGame Pawn Models (modular features)
+- [ ] SB Tactical MPX PSB
+- [ ] SB Tactical Rattler FS1913
+- [ ] Radar Chest Rig Case Thing [https://discord.com/channels/685655713845870602/779069773355024444/944966676703772732](https://discord.com/channels/685655713845870602/779069773355024444/944966676703772732 "https://discord.com/channels/685655713845870602/779069773355024444/944966676703772732")
+- [ ] Rifle Style ModulShotgun Stock with Shell Holders (Wood+Polymer)
+- [ ] AR Style ModulShotgun Stock with Shell Holders
 
 
 ## Hi-Poly
@@ -19,7 +23,6 @@ kanban-plugin: basic
 
 ## Lo-Poly
 
-- [ ] Meat's SCAR Handrail
 
 
 ## UV/Texturing
@@ -28,6 +31,7 @@ kanban-plugin: basic
 
 ## Finished
 
+- [ ] Meat's SCAR Handrail
 - [ ] Nagant Revolver
 
 

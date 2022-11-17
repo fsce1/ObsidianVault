@@ -4,45 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "622c7ae48acb1463",
-        "type": "split",
+        "id": "be842bd0722bff99",
+        "type": "tabs",
         "children": [
           {
-            "id": "34bf566090fe65b0",
-            "type": "tabs",
-            "dimension": 30.689655172413794,
-            "children": [
-              {
-                "id": "274036ecf4a6bdfd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Daily/2022-11-16.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "843a314d84ba1c4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DesignDocs/22.11.17-Cheating+GameEconomies.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "19f47bd8dc47ffb4",
-            "type": "tabs",
-            "dimension": 69.3103448275862,
-            "children": [
-              {
-                "id": "8a31c866beff1d90",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418.5
+    "width": 402.5
   },
   "right": {
     "id": "363d0b54ca988fd6",
@@ -128,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2022-11-16.md",
+                "file": "DesignDocs/22.11.17-Cheating+GameEconomies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2022-11-16.md",
+                "file": "DesignDocs/22.11.17-Cheating+GameEconomies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2022-11-16.md"
+                "file": "DesignDocs/22.11.17-Cheating+GameEconomies.md"
               }
             }
           }
@@ -179,17 +156,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "274036ecf4a6bdfd",
+  "active": "843a314d84ba1c4d",
   "lastOpenFiles": [
-    "Daily/2022-11-15.md",
-    "MVP- StrategyGame/Kanban.md",
-    "Pawn Behaviour.md",
-    "DesignDocs/Room Feedback.md",
-    "DesignDocs/Moodboard- Iso Room/Pasted Image 20221108095127_042.png",
     "Models.md",
+    "Drawing 2022-11-17 13.34.04.excalidraw.md",
     "Sekiro.md",
-    "MVP- StrategyGame/Code Notes.md",
-    "MVP- StrategyGame/World.md",
-    "MVP- StrategyGame/HealthSystem.md"
+    "Games.md",
+    "Pawn Behaviour.md",
+    "DesignDocs/22.11.17-Cheating+GameEconomies.md",
+    "DesignDocs/Moodboard- Iso Room/Pasted Image 20221108095138_769.png",
+    "MVP- StrategyGame/Kanban.md",
+    "DesignDocs/Room Feedback.md",
+    "Daily/2022-11-16.md"
   ]
 }
