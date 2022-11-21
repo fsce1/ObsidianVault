@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DesignDocs/22.11.17-Cheating+GameEconomies.md",
+                "file": "Daily/2022-11-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DesignDocs/22.11.17-Cheating+GameEconomies.md",
+                "file": "Daily/2022-11-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DesignDocs/22.11.17-Cheating+GameEconomies.md",
+                "file": "Daily/2022-11-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DesignDocs/22.11.17-Cheating+GameEconomies.md"
+                "file": "Daily/2022-11-19.md"
               }
             }
           }
@@ -156,17 +156,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "843a314d84ba1c4d",
+  "active": "7b1dee41c95b5f77",
   "lastOpenFiles": [
+    "Daily/2022-11-15.md",
+    "Daily/2022-11-19.md",
+    "Daily/2022-11-16.md",
+    "DesignDocs/22.11.17-Cheating+GameEconomies.md",
     "Models.md",
     "Drawing 2022-11-17 13.34.04.excalidraw.md",
     "Sekiro.md",
     "Games.md",
     "Pawn Behaviour.md",
-    "DesignDocs/22.11.17-Cheating+GameEconomies.md",
-    "DesignDocs/Moodboard- Iso Room/Pasted Image 20221108095138_769.png",
-    "MVP- StrategyGame/Kanban.md",
-    "DesignDocs/Room Feedback.md",
-    "Daily/2022-11-16.md"
+    "DesignDocs/Moodboard- Iso Room/Pasted Image 20221108095138_769.png"
   ]
 }
