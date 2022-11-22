@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "843a314d84ba1c4d",
+            "id": "8e144e4c455bd132",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "excalidraw",
               "state": {
-                "file": "Models.md"
+                "file": "House of Leaves Environment/Drawing 2022-11-22 09.07.09.excalidraw.md"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Models.md",
+                "file": "House of Leaves Environment/Drawing 2022-11-22 09.07.09.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Models.md",
+                "file": "House of Leaves Environment/Drawing 2022-11-22 09.07.09.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Models.md"
+                "file": "House of Leaves Environment/Drawing 2022-11-22 09.07.09.excalidraw.md"
               }
             }
           }
@@ -154,17 +154,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "843a314d84ba1c4d",
+  "active": "8e144e4c455bd132",
   "lastOpenFiles": [
+    "House of Leaves Environment/Untitled Kanban.md",
+    "House of Leaves Environment/House of Leaves Environment.md",
+    "DesignDocs/22.11.17-Cheating+GameEconomies.md",
+    "DesignDocs/Room Feedback.md",
+    "Models.md",
     "Drawing 2022-11-17 13.34.04.excalidraw.md",
     "MVP- StrategyGame/Kanban.md",
     "MVP- StrategyGame/Code Notes.md",
     "Daily/2022-11-19.md",
-    "Daily/2022-11-12.md",
-    "DesignDocs/Moodboard- Iso Room/Pasted Image 20221108093302_360.jpg",
-    "MVP- GravityPlatformer/Kanban.md",
-    "MVP- StrategyGame/World.md",
-    "MVP- StrategyGame/HealthSystem.md",
-    "MVP- GravityPlatformer/World.md"
+    "Daily/2022-11-12.md"
   ]
 }
