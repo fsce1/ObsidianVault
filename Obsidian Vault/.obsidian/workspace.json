@@ -8,12 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "843a314d84ba1c4d",
+            "id": "051d92215edf0887",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Models.md"
+                "file": "Mount Eerie/Dawn.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -103,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Models.md",
+                "file": "Mount Eerie/Dawn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Models.md",
+                "file": "Mount Eerie/Dawn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Models.md"
+                "file": "Mount Eerie/Dawn.md"
               }
             }
           }
@@ -154,17 +156,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "843a314d84ba1c4d",
+  "active": "051d92215edf0887",
   "lastOpenFiles": [
-    "Drawing 2022-11-17 13.34.04.excalidraw.md",
-    "MVP- StrategyGame/Kanban.md",
-    "MVP- StrategyGame/Code Notes.md",
-    "Daily/2022-11-19.md",
-    "Daily/2022-11-12.md",
-    "DesignDocs/Moodboard- Iso Room/Pasted Image 20221108093302_360.jpg",
-    "MVP- GravityPlatformer/Kanban.md",
-    "MVP- StrategyGame/World.md",
-    "MVP- StrategyGame/HealthSystem.md",
-    "MVP- GravityPlatformer/World.md"
+    "Mount Eerie/Mount Eerie.md",
+    "Mount Eerie/Dawn.md",
+    "Mount Eerie/Seven New Songs.md",
+    "Mount Eerie/It Was Hot, We Stayed In The Water.md",
+    "Mount Eerie/Eleven Old Songs.md",
+    "Mount Eerie/The Glow, Pt. 2.md",
+    "Mount Eerie/Foreword.md",
+    "Mount Eerie/Nobody's Perfect.md",
+    "Mount Eerie/SINGERS.md",
+    "Mount Eerie/White Stag.md"
   ]
 }

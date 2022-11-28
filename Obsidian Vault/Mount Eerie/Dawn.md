@@ -1,0 +1,3 @@
+Dawn is a significant album in Mount Eerie's discography, as it pretty neatly wraps up the early years of the project, spurred by Phil's trip to Norway.
+These early days of Mount Eerie saw the project attempting to ground itself and gain a foothold, and so a lot of the records released in this time are quite scattered and short, unpolished. Namely [[SINGERS]], [[White Stag]], [[Seven New Songs]] and [[Eleven Old Songs]], and this record acts as a very beautiful bookend to this period of tracks.
+Performed in a stripped back, lonely manner, this almost acts as a reference for the other versions of the tracks. a "definitive version" I guess.
