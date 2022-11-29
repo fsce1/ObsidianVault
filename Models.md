@@ -23,7 +23,6 @@ kanban-plugin: basic
 
 ## Lo-Poly
 
-- [ ] SB Tactical MPX PSB
 
 
 ## UV/Texturing
@@ -34,6 +33,7 @@ kanban-plugin: basic
 
 - [ ] Meat's SCAR Handrail
 - [ ] Nagant Revolver
+- [ ] SB Tactical MPX PSB
 
 
 
