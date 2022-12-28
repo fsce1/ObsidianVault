@@ -1,3 +1,32 @@
+
+
+
+
+
+
+
+
+
+
+Insurgency Style Magazine Management
+
+
+
+
+
+Custom Maps.
+	-BSP/Brush-based map editor where player can add voxels + create custom terrain
+	-Each Voxel's side can display a custom 512x512 texture (like brushes in Hammer Editor)
+	low cover and full cover = 1 block and 2 block height
+	Half-Life: Tactics?
+	Object Textures based on tilemap sprite thats put into a new material
+
+
+
+	
+
+
+
 Multiple people.
 	-First map, one player, the city map that is already designed
 	-Slowly build more people over game, around halfway through you have 3 people and its capped at 3 for rest of game
@@ -15,12 +44,11 @@ Rimworld (Combat).
 	-Setting up ambushes with queued actions? ("When enemy gets this close, automatically attack")
 	-Randomised Pawn Attributes- gun handling (time between shots), accuracy, run speed, stealth
 	-Not as automated as Rimworld, but action queue (Move to this cover, then shoot this enemy)
-		-The Sims??
+		-Sims 4?
 
 Controls.
 	-Clicking not needed, just start dragging pawn and release on object to perform action on (or blank space to move there)
 		-If has multiple actions, bubbles appear in adjacent directions (like the Tumblr quick-reblog feature)
-	-Not grid-based
 	-Actions need to be very readable, as you are controlling >1 person at a time
 		-Walking speed could be quite slow. Perhaps different "Stances" for pawns that affect stealth and speed
 
