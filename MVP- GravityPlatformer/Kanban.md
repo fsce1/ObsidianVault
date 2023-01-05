@@ -6,17 +6,17 @@ kanban-plugin: basic
 
 ## Plan
 
-- [ ] Tilesets-<br>Completely remake (underground stuff)
 
 
 ## Work In Progress
 
-- [ ] Gravity Mechanic-<br>need to rotate character
 - [ ] [[LVL-1 Sketch]]
+- [ ] Tilesets-<br>Completely remake (underground stuff)
 
 
 ## First Pass Finished
 
+- [ ] Gravity Mechanic-<br>need to rotate character
 
 
 ## Refactoring

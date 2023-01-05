@@ -10,4 +10,3 @@ Supernatural elements
 	First thing you see of this town is the trash (death pits for normal platforming)
 Graphics
 	Rendered like DK:C 3D models (lotsa dithering etc)
-	Any animal/character part is pixel art

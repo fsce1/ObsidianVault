@@ -12,8 +12,6 @@ kanban-plugin: basic
 - [ ] Rifle Style ModulShotgun Stock with Shell Holders (Wood+Polymer)
 - [ ] AR Style ModulShotgun Stock with Shell Holders
 - [ ] IMPLEMENT 725 from MW19 - Arpy
-- [ ] Lo-Poly Tumblr Character
-- [ ] GravityPlatformer Character
 
 
 ## Hi-Poly
@@ -27,6 +25,7 @@ kanban-plugin: basic
 
 ## UV/Texturing
 
+- [ ] GravityPlatformer Character
 
 
 ## Finished
@@ -34,6 +33,7 @@ kanban-plugin: basic
 - [ ] Meat's SCAR Handrail
 - [ ] Nagant Revolver
 - [ ] SB Tactical MPX PSB
+- [ ] Lo-Poly Tumblr Character
 
 
 

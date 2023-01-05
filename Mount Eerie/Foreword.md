@@ -1,5 +1,4 @@
 
-
 Articles I Recommend:
 Please read all the bandcamp descriptions for each LP, you can find some super interesting context in there a lot of the time. I recommend reading:
 	https://pwelverumandsun.bandcamp.com/album/nobodys-perfect
